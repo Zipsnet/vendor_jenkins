@@ -2,4 +2,10 @@
 # <ID> <lunch> <branch> <maintainer>   <Day: 1 Monday - 7 Sunday > 
 
 # Daily
-6 aicp_flo-userdebug o8.1 test@test.com 1,3,5
+6 aicp_flo-userdebug o8.1 1,2,5 test@test.com 
+97 aicp_angler-userdebug o8.1 1,3,6  lordclockan@gmail.com, doc.divxm@gmail.com
+98 aicp_bullhead-userdebug o8.1 1,3,5  doc.divxm@gmail.com
+117 aicp_oneplus3-userdebug o8.1 3,6  darraghmcgee20@gmail.com
+136 aicp_athene-userdebug o8.1 1,3  alasadi56@gmail.com
+178 aicp_cheeseburger-userdebug o8.1 3 genesixxbf3@gmail.com, csolano@gmail.com
+202 aicp_dumpling-userdebug o8.1 1  alextsanisbadlorg@gmail.com, abittin@gmail.com
